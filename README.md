@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="./images/banner.jpeg" alt="Clifford Fajardo's Github Cover Image Banner"/>
 
-<!--
-**cliffordfajardo/cliffordfajardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- <b style="font-size: 20px; margin-right: 10px">Social:</b> -->
+<a href="https://twitter.com/cliffordfajard0">
+    <img src="./images/twitter.png" height="15px" alt="Clifford Fajardo's twitter profile link">cliffordfajard0
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+## Hello World
+
+I'm a software engineer 🛠, twin brother👥, and lover of Bronco Billies Pizza🍕, among many other things.
+
+I love creating for the web! In this area, I'm passionate about:
+- Creating web experiences that are fast & accessible.
+- Working on Web infrastructure, developer tooling and reverse engineering technologies I use to learn and for fun
