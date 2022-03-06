@@ -18,4 +18,6 @@ I love creating for the web! In this area, I'm passionate about:
 - Working on Web infrastructure, developer tooling and reverse engineering technologies I use to learn and for fun
 - Creating web experiences that are fast, accessible & delight to use.
 
-👋 If you work at [@Microsoft](https://github.com/microsoft) (or subsidiary of MSFT ..[LinkedIn](https://github.com/linkedin) etc...), connect with me on Team's! Happy to chat.
+## Social 👋 
+- Best way to connect or talk with me about anything almost is on twitter ([@cliffordfajard0](https://twitter.com/cliffordfajard0))
+- If you work at [@Microsoft](https://github.com/microsoft) (or subsidiary of MSFT ..[LinkedIn](https://github.com/linkedin) etc...), connect with me on Microsoft Team's!
