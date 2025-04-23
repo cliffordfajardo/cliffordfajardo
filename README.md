@@ -17,4 +17,4 @@ I love creating for the web! In this area, I'm passionate about:
 
 ## Social 👋 
 - Best way to connect or talk with me about anything almost is on twitter ([@cliffordfajard0](https://twitter.com/cliffordfajard0))
-- If you work at [@Microsoft](https://github.com/microsoft) (or subsidiary of MSFT ..[LinkedIn](https://github.com/linkedin) etc...), connect with me on Microsoft Team's!
+- Outdoor adventures IG: [@cliffordfajardo](https://www.instagram.com/cliffordfajardo/)
