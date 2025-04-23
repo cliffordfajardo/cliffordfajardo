@@ -11,9 +11,6 @@
 
 
 ## Hello World
-
-I'm a software engineer 🛠, twin brother👥, and lover of Bronco Billies Pizza🍕, among many other things.
-
 I love creating for the web! In this area, I'm passionate about:
 - Working on Web infrastructure, developer tooling and reverse engineering technologies I use to learn and for fun
 - Creating web experiences that are fast, accessible & delight to use.
